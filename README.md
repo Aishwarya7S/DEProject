@@ -47,7 +47,6 @@ This project aims to build a secure and interactive web platform that empowers w
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB (Mongoose)  
 - **Authentication:** bcrypt, express-session  
-- **Testing:** Postman, Git  
-- **Tools Used:** Visual Studio Code, GitHub  
+- **Tools Used:** Visual Studio Code,Postman, GitHub  
 
 
